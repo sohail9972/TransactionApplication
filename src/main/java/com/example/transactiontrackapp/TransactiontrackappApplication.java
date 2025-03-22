@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TransactiontrackappApplication {
 
-//	checking the Test solo
+//	checking the Test solo dfkdf
 	public static void main(String[] args) {
 		SpringApplication.run(TransactiontrackappApplication.class, args);
 	}
